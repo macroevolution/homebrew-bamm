@@ -2,7 +2,7 @@ require "formula"
 
 class Bamm < Formula
   homepage "http://bamm-project.org"
-  url "https://github.com/macroevolution/bamm.git", :tag => "v2.4.0"
+  url "https://github.com/macroevolution/bamm.git", :tag => "v2.5.0"
 
   depends_on "cmake" => :build
 

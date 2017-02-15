@@ -1,10 +1,9 @@
 homebrew-bamm
 =============
 
-Provides a Homebrew formula for easily compiling and installing BAMM on OS X.
-Before installing BAMM,
-make sure you have [Homebrew](http://brew.sh) installed.
-Then run
+The BAMM formula for Homebrew now lives in [Homebrew/science](https://github.com/Homebrew/homebrew-science).
 
-    brew tap macroevolution/bamm
+Make sure you have [Homebrew](https://brew.sh) installed.  Then run
+
+    brew tap homebrew/science
     brew install bamm

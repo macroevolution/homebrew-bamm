@@ -5,5 +5,5 @@ The BAMM formula for Homebrew now lives in [Homebrew/science](https://github.com
 
 Make sure you have [Homebrew](https://brew.sh) installed.  Then run
 
-    brew tap homebrew/science
+    brew tap brewsci/bio
     brew install bamm
